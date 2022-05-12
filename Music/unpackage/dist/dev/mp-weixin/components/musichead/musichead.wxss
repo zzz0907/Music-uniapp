@@ -1,0 +1,5 @@
+
+.music-head.data-v-e0b6e5e0{ height:75px; text-align: center; line-height: 80px; font-size:16px; color:black; overflow: hidden; position: relative;}
+.music-head-icon.data-v-e0b6e5e0{ width:97px; height:31px; background:rgba(0,0,0,0.4); border-radius: 15px; position: absolute; left:10px; top:25px; line-height: 31px; display: flex; justify-content: space-evenly; color:white;}
+.music-head-iconblack.data-v-e0b6e5e0{ color:black; background:white; border:1px black solid;}
+
